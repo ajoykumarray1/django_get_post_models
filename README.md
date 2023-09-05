@@ -1,0 +1,1 @@
+# django_get_post_models
